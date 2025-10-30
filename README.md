@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aryan Singh (Dimssu)
 
-I'm a **Frontend Developer** who enjoys crafting clean, responsive, and scalable web interfaces.  
+I'm a **Fullstack Developer** who enjoys crafting clean, responsive, and scalable web interfaces.  
 I also have experience with **Java Spring Boot** and love exploring how frontend and backend come together to build great user experiences.  
 
 💡 Currently diving into **open-source contributions** and learning how to collaborate with global dev communities.
@@ -9,9 +9,9 @@ I also have experience with **Java Spring Boot** and love exploring how frontend
 
 ## 🧰 Tech Stack
 
-**Frontend:** React • Next.js • JavaScript • TypeScript • HTML • CSS • TailwindCSS  
-**Backend:** Node.js • Express • Java Spring Boot • REST APIs  
-**Database / Tools:** PostgreSQL • MongoDB • Docker • GitHub Actions
+**Frontend:** React • JavaScript • TypeScript • SCSS • TailwindCSS 
+**Backend:** Node.js • Express • Java Spring Boot • REST APIs • FastApi
+**Database / Tools:** PostgreSQL • MongoDB • Docker • GitHub Actions • Jira • Jenkins • AWS
 
 ---
 
@@ -35,7 +35,7 @@ I also have experience with **Java Spring Boot** and love exploring how frontend
 
 - 🖥️ **Portfolio:** [dimssu.com](https://www.dimssu.com/)  
 - 💼 **LinkedIn:** [Aryan Singh](https://www.linkedin.com/in/aryan-singh-9987a11b7/)  
-- 📫 **Email:** your.email@example.com
+- 📫 **Email:** aryansi1126@gmail.com
 
 ---
 
