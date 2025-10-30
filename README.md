@@ -24,9 +24,4 @@ JavaScript • TypeScript • Node.js • React • PostgreSQL • Docker
 - Chat-App — realtime messaging (WIP)
 <!-- projects end -->
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dimssu&show_icons=true&theme=default)
-
 -->
