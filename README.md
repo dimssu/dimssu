@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Dimssu
 
-<!--
-**dimssu/dimssu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building realtime apps with Node.js & React.  
+I like clean APIs, solid testing, and learning new systems tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**🔭 Currently:** Building a realtime chat app (Socket.io, Node.js, React)  
+**🌱 Learning:** Rust, performance optimization  
+**📫 Contact:** [LinkedIn](https://linkedin.com/in/yourprofile) • your.email@example.com
+
+---
+
+## 🛠 Tech
+JavaScript • TypeScript • Node.js • React • PostgreSQL • Docker
+
+---
+
+## 🔧 Selected Projects
+- **Chat-App** — realtime messaging with Socket.io (Node.js, React) — WIP  
+- **Mudra** — auth & user management microservice — maintained
+
+<!-- projects start -->
+- Chat-App — realtime messaging (WIP)
+<!-- projects end -->
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dimssu&show_icons=true&theme=default)
+
 -->
