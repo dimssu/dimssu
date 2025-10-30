@@ -26,7 +26,6 @@ I also have experience with **Java Spring Boot** and love exploring how frontend
 
 ## 📊 GitHub Stats
 
-![Dimssu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimssu&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimssu&layout=compact)
 
 ---
