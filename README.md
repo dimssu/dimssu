@@ -10,6 +10,7 @@ I also have experience with **Java Spring Boot** and love exploring how frontend
 ## 🧰 Tech Stack
 
 **Frontend:** React • JavaScript • TypeScript • SCSS • TailwindCSS
+
 **Backend:** Node.js • Express • Java Spring Boot • REST APIs • FastApi
 **Database / Tools:** PostgreSQL • MongoDB • Docker • GitHub Actions • Jira • Jenkins • AWS
 
