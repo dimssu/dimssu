@@ -20,7 +20,7 @@ I also have experience with **Java Spring Boot** and love exploring how frontend
 ## 🚀 What I'm Up To
 
 - 💬 Working on realtime apps like **Chat-App** using Socket.io and React  
-- 🌱 Learning **Rust** and improving backend design  
+- 🌱 Learning and improving backend design  
 - 🤝 Contributing to open-source projects  
 - 🧠 Building side projects to explore new technologies
 
